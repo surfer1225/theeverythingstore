@@ -21,7 +21,7 @@
 #### Amazon Action
 - $672 million convertible bonds in European market before stock market crash: 6.9% interest
 - cash as a hedge against nervous suppliers asking to be paid more quickly
-- (get big fast) -> (get our hous in order): 1998: 1,500 employees to 2000: 7,600
+- (get big fast) -> (get our holes in order): 1998: 1,500 employees to 2000: 7,600
 - time to reduce waste and improve efficiency: Linux, slow new product launch etc.
 - cost reduction from shipping with mail
 
