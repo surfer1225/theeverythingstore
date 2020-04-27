@@ -7,6 +7,8 @@
 - started with book, since books are identical, a list of other products ready to be on e-commerce
 
 ## Chapter 2: The Book of Bezos
+- typical laughter
+- narrative fallacy
 
 ## Chapter 3: Fever Dreams
 
