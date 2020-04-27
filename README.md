@@ -2,7 +2,7 @@
 
 ## Chapter 1: The House of Quants
 - before Amazon, hedge fund using algorithms to trade
-- Bezos the young SVP at the investment firm D.E. Shaw .
+- Bezos the young VP at the investment firm D.E. Shaw .
 - idea of "everything" store in D.E. Shaw
 - started with book, since books are identical, a list of other products ready to be on e-commerce
 
